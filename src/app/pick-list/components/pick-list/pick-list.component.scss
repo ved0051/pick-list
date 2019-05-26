@@ -1,0 +1,42 @@
+.divide {
+  border: 1px solid #e0e0e0;
+}
+
+.fa-share-square {
+  position: absolute;
+  top: 8px;
+  right: 40px;
+  cursor: pointer;
+}
+
+.list-header {
+  text-align: center;
+  position: relative;
+  .col {
+    padding: 5px;
+    background: aliceblue;
+  }
+
+  .row {
+    margin: 0;
+  }
+}
+
+.list-heading {
+  padding: 5px;
+  background: #c7e1fd;
+}
+
+.list-items {
+  text-align: center;
+  padding: 20px;
+}
+
+.list-font {
+  font-size: 14px;
+  color: gray;
+}
+
+mat-card {
+  margin-top: 10px;
+}

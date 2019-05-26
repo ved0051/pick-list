@@ -1,0 +1,72 @@
+.active-wrapper {
+  padding: 20px;
+}
+
+.back-card {
+  padding: 20px;
+  margin: 0px 20px;
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.card-wrapper {
+  margin-top: 10px;
+}
+
+.crate-btn {
+  background: #e9ecef;
+}
+
+.divide {
+  border: 1px solid #e0e0e0;
+}
+
+.footer {
+  position: absolute;
+  width: 100%;
+  bottom: 0px;
+  .row {
+    margin: 0;
+  }
+}
+
+.fa-check-circle,
+.fa-times-circle {
+  position: absolute;
+  right: 20px;
+  top: 25px;
+}
+
+.form-filed {
+  width: 100%;
+}
+
+.inner-card {
+  padding: 20px;
+  text-align: center;
+}
+
+.list-font {
+  font-size: 14px;
+  color: gray;
+}
+
+.not-f-btn {
+  width: 100%;
+  background: #e9ecef;
+}
+
+.success-message {
+  text-align: center;
+}
+
+.top-card {
+  mat-card {
+    margin-top: 20px;
+    padding: 0px;
+  }
+}
+
+.warning {
+  color: red;
+  text-align: center;
+}
